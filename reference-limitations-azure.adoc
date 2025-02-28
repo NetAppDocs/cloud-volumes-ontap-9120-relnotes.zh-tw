@@ -41,4 +41,4 @@ Standard_L8s_v2 VM類型包含本機NVMe儲存設備、Cloud Volumes ONTAP 此�
 
 某些地區不支援HA配對。
 
-https://cloud.netapp.com/cloud-volumes-global-regions["檢視支援的Azure地區清單"^]。
+https://bluexp.netapp.com/cloud-volumes-global-regions["檢視支援的Azure地區清單"^]。
